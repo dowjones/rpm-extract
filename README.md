@@ -1,6 +1,6 @@
 # rpmExtract
 
-[![npm](https://img.shields.io/npm/v/rpm-extract.svg)](https://www.npmjs.com/package/rpm-extract) [![Build Status](https://travis-ci.org/dowjones/rpm-extract.svg?branch=master)](https://travis-ci.org/dowjones/rpm-extract) [![Code Climate](https://codeclimate.com/github/dowjones/rpm-extract/badges/gpa.svg)](https://codeclimate.com/github/dowjones/rpm-extract) [![Coverage Status](https://coveralls.io/repos/github/dowjones/rpm-extract/badge.svg)](https://coveralls.io/github/dowjones/rpm-extract)
+[![npm](https://img.shields.io/npm/v/rpm-extract.svg)](https://www.npmjs.com/package/rpm-extract) [![Build Status](https://travis-ci.org/dowjones/rpm-extract.svg?branch=master)](https://travis-ci.org/dowjones/rpm-extract) [![Code Climate](https://codeclimate.com/github/dowjones/rpm-extract/badges/gpa.svg)](https://codeclimate.com/github/dowjones/rpm-extract) [![Coverage Status](https://coveralls.io/repos/github/dowjones/rpm-extract/badge.svg?branch=master)](https://coveralls.io/github/dowjones/rpm-extract?branch=master)
 
 This module lets you programmatically extract files from an [rpm](https://en.wikipedia.org/wiki/RPM_Package_Manager) package.
 
