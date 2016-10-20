@@ -46,8 +46,7 @@
     ],
     "reporter": [
       "html",
-      "text",
-      "cobertura"
+      "lcov"
     ],
     "check-coverage": true,
     "statements": 100,
